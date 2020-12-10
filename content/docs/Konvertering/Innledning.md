@@ -8,7 +8,7 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
-## Goals
+## Innledning
 
 Hensikten med veilederen er å gi kort og målrettet informasjon om reglene knyttet til
 konvertering fra gammel til ny utdanningsordning for ALIS. Målgruppen er ALIS som er startet på
