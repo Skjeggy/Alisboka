@@ -15,16 +15,49 @@ konvertering fra gammel til ny utdanningsordning for ALIS. Målgruppen er ALIS s
 sin spesialisering før 01.03.19, veiledere og kommuneledere.
 Vurderingen av hvorvidt en ALIS må eller bør fullføre utdanningen etter gammel ordning,
 avklares mellom ALIS og kommune-leder etter instruksjonen som ligger i denne veilederen.
+
+
 Utvidet informasjon om allmennleger i spesialisering (ALIS) finnes på disse nettsidene:
-• Helsedirektoratet: [Allmennmedisin](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger/allmennmedisin)
-• Legeforeningen: [Spesialitet Allmennmedisin](https://www.legeforeningen.no/fag/spesialiteter/Allmennmedisin/)
-• KS: [Spesialistutdanning i allmennmedisin](https://www.ks.no/fagomrader/helse-og-omsorg/legetjenester/spesialistutdanning-i-allmennmedisin/)
+
+- Helsedirektoratet: [Allmennmedisin](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger/allmennmedisin)
+- Legeforeningen: [Spesialitet Allmennmedisin](https://www.legeforeningen.no/fag/spesialiteter/Allmennmedisin/)
+- KS: [Spesialistutdanning i allmennmedisin](https://www.ks.no/fagomrader/helse-og-omsorg/legetjenester/spesialistutdanning-i-allmennmedisin/)
 
 3
 
-1.1 Overgangsregler for ALIS som har påbegynt spesialisering
+#### Sett inn bilde av ALIS konvertering her.
+
+## Overgangsregler for ALIS som har påbegynt spesialisering
+
 Overgangsreglene gjelder for ALIS som har påbegynt spesialisering før 1. mars 2019.
+
 Overgangsreglene er beskrevet i spesialistforskriften § 37 (sitat):
+
+§ 37. Overgangsregler for spesialistutdanning og spesialistgodkjenning av leger
+Norsk spesialistgodkjenning som er gitt etter tidligere regler beholdes.
+For leger som per 1. mars 2019 er under spesialisering i allmennmedisin, samfunnsmedisin og
+arbeidsmedisin gjelder følgende overgangsregler:
+a) Leger har rett til å gjennomføre spesialistutdanningen og søke om spesialistgodkjenning etter
+tidligere ordning, dersom de søker om spesialistgodkjenning innen 1. mars 2025.
+b) Dersom legen og virksomheten legen er tilknyttet blir enige om at legen skal gå over i ny ordning
+for spesialistutdanning, kan legen gjennomføre resten av spesialistutdanningen og søke om
+spesialistgodkjenning etter denne forskriften. Virksomheten må i så fall oppfylle kravene etter
+denne forskriften for den gjenstående delen av spesialistutdanningen. Legen får i så fall rett til en
+vurdering av oppnådde læringsmål på bakgrunn av kompetanse oppnådd ved tjeneste og andre
+læringsaktiviteter som allerede er gjennomført etter påbegynt ordning for spesialistutdanning.
+Virksomheten skal sørge for at oppnådde læringsmål vurderes og dokumenteres innen 1. mars
+2022. For leger som da er i permisjon eller har annet fravær fra tjenesten, er fristen seks måneder
+etter at legen er tilbake i tjenesten.
+c) Når leger gjennomfører resten av spesialistutdanningen etter denne forskriften, skal praktisk
+tjeneste gjennomført under spesialisering før 1. mars 2019 telle med i beregningen av samlet
+utdanningstid etter § 31.
+For leger som per 1. mars 2019 er under spesialisering og har autorisasjon på grunnlag av gjennomført
+grunnleggende legeutdanning i andre EØS-land, gjelder ikke kravet i § 29 bokstav a om dokumentasjon
+på oppnådde læringsmål i utdanningens første del.
+0 Endret ved forskrifter 16 feb 2017 nr. 193 (i kraft 1 mars 2017), 19 des 2018 nr. 2171 (i kraft 1 mars 2019, tidligere § 32), 26
+feb 2019 nr. 145 (i kraft 1 mars 2019).
+
+
 
 For kommentarer til § 37, 2. avsnitt se: Spesialistforskriften med kommentarer.
 
