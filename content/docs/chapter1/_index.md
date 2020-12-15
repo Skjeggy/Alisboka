@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Chapter 1
 summary: Anbefalt prosess for konvertering av ALIS
-fra gammel til ny utdanningsordning. 
+fra gammel til ny utdanningsordning.
 weight: 1
 icon: book
 icon_pack: fas
