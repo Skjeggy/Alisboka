@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Konvertering av ALIS
+linktitle: Chapter 1
 summary: Anbefalt prosess for konvertering av ALIS
 fra gammel til ny utdanningsordning. 
 weight: 1
@@ -8,7 +8,7 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Konvertering av ALIS
+title: Chapter 1
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
