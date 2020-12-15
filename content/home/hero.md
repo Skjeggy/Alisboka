@@ -47,12 +47,11 @@ hero_media = "book.svg"
 #  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+#[cta_note]
+#  label = '<span class="js-github-release" data-repo="gcushen/#hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
 En guide til ALIS, laget av [ALIS kontor Sør](https://aliskrs.netlify.app/).
 
 Her kan du lese mer om hvordan legge til rette for ALIS eller hvordan være ALIS....
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
