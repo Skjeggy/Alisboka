@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation"
-  url = "docs/"
+  name = "For kommunen"
+  url = "kommune/"
   weight = 10
+
+[[main]]
+  name = "For ALIS"
+  url = "alis/"
+  weight = 5
