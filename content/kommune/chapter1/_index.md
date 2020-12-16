@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
+linktitle: Konvertering
 summary: Anbefalt prosess for konvertering av ALIS fra gammel til ny utdanningsordning.
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Konvertering
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
@@ -52,3 +52,5 @@ Or, if you are creating a software documentation site, you can rename the `cours
 ## Update the docs menu
 
 If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+
+ 
