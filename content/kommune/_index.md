@@ -5,7 +5,6 @@ type: book  # Do not modify.
 
 Her kan du lese mer om informasjon rundt ALIS som er viktig å vite for kommunen.
 
-{{< hint [danger] >}}
 
 **En ALIS er formelt og dokumentert overført til ny utdanningsordning når vedkommende:**  
 
@@ -15,4 +14,3 @@ Her kan du lese mer om informasjon rundt ALIS som er viktig å vite for kommunen
 
 3. Har en oppdatert individuell gjennomføringsplan som viser hva som er vurdert som tellende inn i minstetiden, gjenstående spesialiseringsperioder og anslått tid for avslutning.
 
-{{< /hint >}}
