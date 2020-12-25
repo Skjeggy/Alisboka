@@ -12,3 +12,8 @@
   name = "For ALIS"
   url = "alis/"
   weight = 5
+
+  [[main]]
+  name = "Generelt"
+  url = "generelt/"
+  weight = 1
