@@ -1,13 +1,11 @@
 ---
 title: Overgangsregler for ALIS som har påbegynt spesialisering
-linktitle: Reading List
+linktitle: Overgangsregler for ALIS som har påbegynt spesialisering
 type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-
-# Overgangsregler for ALIS som har påbegynt spesialisering
 
 Overgangsreglene gjelder for ALIS som har påbegynt spesialisering før 1. mars 2019.
 
