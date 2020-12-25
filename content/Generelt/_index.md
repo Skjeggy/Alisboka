@@ -1,5 +1,5 @@
 ---
-title: For ALIS
+title: Generelt
 type: book  # Do not modify.
 ---
 
