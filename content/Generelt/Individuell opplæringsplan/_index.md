@@ -2,12 +2,12 @@
 # Title, summary, and page position.
 linktitle: Individuell opplæringsplan
 summary: Info om individuell opplæringsplan.
-weight: 1
+weight: 2
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Individuell opplæringsplan
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
